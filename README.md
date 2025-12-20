@@ -1,44 +1,61 @@
-<div align="center" width="50%">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<p>Welcome to my page! <br/>
+I'm <b>Mohamed Aref</b>, a Full-Stack Developer with strong skills in <b>C++</b> and experience building diverse programming projects. I love writing clean, organized code and continuously learning new technologies to create impactful applications.</p>
 
-<details>
-<p><strong> <summary> Busy coding & Vibing to: </summary> </strong></p>
+<h3>💻 Things I code with</h3>
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+<h3>📂 My Projects</h3>
+<table>
+  <thead align="center">
+    <tr>
+      <th>🎁 Project</th>
+      <th>⭐ Stars</th>
+      <th>📚 Forks</th>
+      <th>🛎 Issues</th>
+      <th>📬 Pull Requests</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#">Awesome C++ Game</a></td>
+      <td><img alt="Stars" src="https://img.shields.io/badge/stars-0-343b41?style=flat-square"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/badge/forks-0-343b41?style=flat-square"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/badge/issues-0-343b41?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/badge/pull-0-343b41?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><a href="#">Advanced Calculator</a></td>
+      <td><img alt="Stars" src="https://img.shields.io/badge/stars-0-343b41?style=flat-square"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/badge/forks-0-343b41?style=flat-square"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/badge/issues-0-343b41?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/badge/pull-0-343b41?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><a href="#">Project Management Tool</a></td>
+      <td><img alt="Stars" src="https://img.shields.io/badge/stars-0-343b41?style=flat-square"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/badge/forks-0-343b41?style=flat-square"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/badge/issues-0-343b41?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/badge/pull-0-343b41?style=flat-square"/></td>
+    </tr>
+  </tbody>
+</table>
 
-</details>
+<h3>🌐 Where to find me</h3>
+<p>
+  <a href="https://github.com/yourusername" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="#" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=MohamedAref&style=flat&color=orange)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohamedAref&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/MohamedAref-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
-</div>
+<p align="center">This <i>README</i> showcases my skills and projects. Let's code something amazing together! 🚀</p>
 
-<hr></hr>
-
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-```dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgrammingLanguages" : { "C++", "Python", "JavaScript", "Java" },
-    "WebLanguages" : { "HTML", "CSS" },
-    "Database" : { "Firebase", "SQLite" },
-    "Editors" : { "VSCode", "Sublime", "Neovim" },
-    "Platforms" : { "GNU/Linux", "Windows", "Mac" },
-    "OtherTools" : { "Git", "Node.js" }
-  };
-}
