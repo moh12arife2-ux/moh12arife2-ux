@@ -34,7 +34,7 @@ I'm <b>Mohamed Aref</b>, a Full-Stack Developer with strong skills in <b>C++</b>
       <td><img alt="Pull Requests" src="https://img.shields.io/badge/pull-0-343b41?style=flat-square"/></td>
     </tr>
     <tr>
-      <td><a href="#">Advanced Calculator</a></td>
+      <td><a href="https://github.com/moh12arife2-ux/Math-Game">Math Game</a></td>
       <td><img alt="Stars" src="https://img.shields.io/badge/stars-0-343b41?style=flat-square"/></td>
       <td><img alt="Forks" src="https://img.shields.io/badge/forks-0-343b41?style=flat-square"/></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/issues-0-343b41?style=flat-square"/></td>
