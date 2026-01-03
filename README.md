@@ -27,7 +27,7 @@ I'm <b>Mohamed Aref</b>, a Full-Stack Developer with strong skills in <b>C++</b>
   </thead>
   <tbody>
     <tr>
-      <td><a href="#">Awesome C++ Game</a></td>
+      <td><a href="#">Rock Paper Scissors</a></td>
       <td><img alt="Stars" src="https://img.shields.io/badge/stars-0-343b41?style=flat-square"/></td>
       <td><img alt="Forks" src="https://img.shields.io/badge/forks-0-343b41?style=flat-square"/></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/issues-0-343b41?style=flat-square"/></td>
@@ -56,6 +56,4 @@ I'm <b>Mohamed Aref</b>, a Full-Stack Developer with strong skills in <b>C++</b>
   <a href="#" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
-
-<p align="center">This <i>README</i> showcases my skills and projects. Let's code something amazing together! 🚀</p>
 
