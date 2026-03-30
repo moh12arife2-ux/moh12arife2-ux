@@ -25,7 +25,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/badge/pull-0-343b41?style=flat-square"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/moh12arife2-ux/Tic-Tac-Toe-CSharp"><b>❌ Tic-Tac-Toe Game (GUI)</b></a></td>
+      <td><a href="https://github.com/moh12arife2-ux/Project-Play-X-O"><b>❌ Tic-Tac-Toe Game (GUI)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/badge/stars-0-343b41?style=flat-square"/></td>
       <td><img alt="Forks" src="https://img.shields.io/badge/forks-0-343b41?style=flat-square"/></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/issues-0-343b41?style=flat-square"/></td>
