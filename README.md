@@ -1,10 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! <br/>
-I'm <b>Mohamed Aref</b>, a Full-Stack Developer with strong skills in <b>C++</b> and experience building diverse programming projects. I love writing clean, organized code and continuously learning new technologies to create impactful applications.</p>
+I'm <b>Mohamed Aref</b>, a Full-Stack Developer with strong skills in <b>C#</b>, <b>C++</b> and experience building diverse programming projects. I love writing clean, organized code and continuously learning new technologies to create impactful applications.</p>
 
 <h3>💻 Things I code with</h3>
 <p>
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -26,13 +28,20 @@ I'm <b>Mohamed Aref</b>, a Full-Stack Developer with strong skills in <b>C++</b>
     </tr>
   </thead>
   <tbody>
-   <tr>
-  <td><a href="https://github.com/moh12arife2-ux/Bank-System-CPP-OOP"><b>🏦 Bank System (OOP)</b></a></td>
-  <td><img alt="Stars" src="https://img.shields.io/badge/stars-1-yellow?style=flat-square"/></td>
-  <td><img alt="Forks" src="https://img.shields.io/badge/forks-0-343b41?style=flat-square"/></td>
-  <td><img alt="Issues" src="https://img.shields.io/badge/issues-0-343b41?style=flat-square"/></td>
-  <td><img alt="Pull Requests" src="https://img.shields.io/badge/pull-0-343b41?style=flat-square"/></td>
-</tr>
+    <tr>
+      <td><a href="https://github.com/moh12arife2-ux/Bank-System-CPP-OOP"><b>🏦 Bank System (OOP)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/badge/stars-1-yellow?style=flat-square"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/badge/forks-0-343b41?style=flat-square"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/badge/issues-0-343b41?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/badge/pull-0-343b41?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/moh12arife2-ux/Employee-Management-System"><b>🏢 Employee Management System</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/badge/stars-0-343b41?style=flat-square"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/badge/forks-0-343b41?style=flat-square"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/badge/issues-0-343b41?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/badge/pull-0-343b41?style=flat-square"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/moh12arife2-ux/Rock--paper-cissors">Rock Paper Scissors</a></td>
       <td><img alt="Stars" src="https://img.shields.io/badge/stars-0-343b41?style=flat-square"/></td>
@@ -53,10 +62,5 @@ I'm <b>Mohamed Aref</b>, a Full-Stack Developer with strong skills in <b>C++</b>
 <h3>🌐 Where to find me</h3>
 <p>
   <a href="https://github.com/moh12arife2-ux" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-| 🏢 Employee Management System | ![Stars](https://img.shields.io/github/stars/moh12arife2-ux/Employee-Management-System?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/moh12arife2-ux/Employee-Management-System?style=flat-square&color=lightgrey) | ![Issues](https://img.shields.io/github/issues/moh12arife2-ux/Employee-Management-System?style=flat-square&color=lightgrey) | ![Pull Requests](https://img.shields.io/github/issues-pr/moh12arife2-ux/Employee-Management-System?style=flat-square&color=lightgrey) |
-
-
-
-  
+  <a href="https://www.linkedin.com/in/mohammed-aref" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
