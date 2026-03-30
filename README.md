@@ -54,4 +54,9 @@ I'm <b>Mohamed Aref</b>, a Full-Stack Developer with strong skills in <b>C++</b>
 <p>
   <a href="https://github.com/moh12arife2-ux" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+| 🏢 Employee Management System | ![Stars](https://img.shields.io/github/stars/moh12arife2-ux/Employee-Management-System?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/moh12arife2-ux/Employee-Management-System?style=flat-square&color=lightgrey) | ![Issues](https://img.shields.io/github/issues/moh12arife2-ux/Employee-Management-System?style=flat-square&color=lightgrey) | ![Pull Requests](https://img.shields.io/github/issues-pr/moh12arife2-ux/Employee-Management-System?style=flat-square&color=lightgrey) |
+
+
+
+  
 </p>
